@@ -1,0 +1,70 @@
+p {
+	color: green;
+	text-align: justify;
+}
+
+h1 {
+	color: white;
+	background-color: olive;
+	font-family: Times;
+	font-size: 60px;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: rgb(51, 204, 0);
+	font-family: Times;
+	font-size: 36px;
+}
+
+body {
+	background-color: #CCFFCC;
+	font-family: Helvetica;
+}
+
+.menu {
+	background-color: white;
+	font-size: 18px;
+}
+
+.link {
+	background-color: #3CB371;
+}
+
+a {
+	font-family: Courier New;
+}
+
+.cursief {
+	font-style: italic;
+	color: red;
+}
+
+.dik {
+	font-weight: bold;
+	color: navy;
+}
+
+.menu a {
+	text-decoration: none;
+	color: #000080;
+}
+
+
+#traditie {
+	text-align: right;
+}
+
+#geloof {
+	text-align: center;
+}
+
+#wanneer {
+	text-align: left;
+}
+
+.menu a:hover {
+	background-color: 006400;
+	font-size: 22px;
+	color: white;
+}
